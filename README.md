@@ -6,4 +6,3 @@ Extract the data from the lending company, which shows the demographic and histo
 <strong>Phase 1</strong>: Displayed the dataset and conduct EDA such as coefficient, data visualization, and handle missing data. (Completed) <br>
 <strong>Phase 2</strong>: Buildt model using TensorFlow and Keras API to predict the model. (Completed, with 89% accuracy) <br>
 <strong>Phase 3</strong>: Conduct hyperparameter optimization to improve the accuracy but the percentage remains the same  (Completed) <br>
-<strong>Phase 4</strong>: Deploy the model into the cloud. (Planned) <br>
